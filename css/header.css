@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.headerContainer{
+	width: 1200px;
+	height: 60px;
+	margin: 0 auto;
+}
+.headerContainer > li {
+	padding: 5px;
+	line-height: 50px;
+	color: #777;
+}
+.headerContainer  img{
+	height: 50px;
+	object-fit: contain;
+}
